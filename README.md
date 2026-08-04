@@ -20,8 +20,6 @@
                                                                                                                                                                                                                                     
   ---                                                                                                                                                                                                                               
                                                                                                                                                                                                                                     
- ### GitHub streak                                                                                                                                                                                                                 
-                                                                                                                                                                                                                                    
   <p align="left">                                                                                                                                                                                                                  
-    <img src="https://streak-stats.demolab.com?user=TristanNogema&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />                                                                                                   
-  </p>        
+    <img src="https://img.shields.io/github/followers/TristanNogema?style=social" alt="GitHub followers" />                                                                                                                         
+  </p>      
