@@ -16,10 +16,4 @@
                                                                                                                                                                                                                                     
   - Building and maintaining a multi-tenant PHP platform serving back-office, API, and customer-facing apps from a single codebase                                                                                                  
   - Integrating LoRaWAN network servers and radio télérelève systems for automated meter reading                                                                                                                                    
-  - Migrating front-end views toward Vue/Nuxt with Tailwind                                                                                                                                                                         
-                                                                                                                                                                                                                                    
-  ---                                                                                                                                                                                                                               
-                                                                                                                                                                                                                                    
-  <p align="left">                                                                                                                                                                                                                  
-    <img src="https://img.shields.io/github/followers/TristanNogema?style=social" alt="GitHub followers" />                                                                                                                         
-  </p>      
+  - Migrating front-end views toward Vue/Nuxt with Tailwind                                                                                                                                                                           
