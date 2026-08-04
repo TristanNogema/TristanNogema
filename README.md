@@ -1,16 +1,32 @@
-## Hi there 👋
-
-<!--
-**TristanNogema/TristanNogema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tristan Belmont                                                                                                                                                                                                                 
+                                                                                                                                                                                                                                    
+  Full-stack developer working on **TourGest WEB**, a metering & IoT management platform (water-meter reading, LoRaWAN/radio integrations, télérelève) at **Nogema Technology**.                                                    
+                                                                                                                                                                                                                                    
+  PHP backends with raw SQL (no ORM, in-house routing) on one side, Vue/Nuxt front-ends styled with Tailwind on the other.                                                                                                          
+                                                                                                                                                                                                                                    
+  ---                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                    
+  ### Stack                                                                                                                                                                                                                         
+                                                                                                                                                                                                                                    
+  <p align="left">                                                                                                                                                                                                                  
+    <img src="https://skillicons.dev/icons?i=php,js,vue,nuxtjs,tailwind,mysql,docker,redis" alt="Tech stack icons" />                                                                                                               
+  </p>                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                    
+  ### Currently                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                    
+  - Building and maintaining a multi-tenant PHP platform serving back-office, API, and customer-facing apps from a single codebase                                                                                                  
+  - Integrating LoRaWAN network servers and radio télérelève systems for automated meter reading                                                                                                                                    
+  - Migrating front-end views toward Vue/Nuxt with Tailwind                                                                                                                                                                         
+                                                                                                                                                                                                                                    
+  ---                                                                                                                                                                                                                               
+                                                                                                                                                                                                                                    
+  ### GitHub stats                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                    
+  <p align="left">                                                                                                                                                                                                                  
+    <img src="https://github-readme-stats.vercel.app/api?username=TristanNogema&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tristan's GitHub stats" height="165" />                                  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TristanNogema&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />                                                    
+  </p>                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                    
+  <p align="left">                                                                                                                                                                                                                  
+    <img src="https://streak-stats.demolab.com?user=TristanNogema&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />                                                                                                   
+  </p>             
